@@ -1,5 +1,5 @@
 # Resposive Admin panel App
-sutiable for web  ,mobile and tablet size it
+sutiable for web  ,mobile and tablet size by using fl_chart and flutter_svg plugin.
 
 📺# Web Screen
 ![Screenshot 2024-08-16 114625](https://github.com/user-attachments/assets/cf427070-2d05-4b93-abea-abcafc9b930c)
