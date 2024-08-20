@@ -11,8 +11,7 @@ class MainScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final isdesktop = Resposive().isdesktop(context);
     final istab = Resposive().istablet(context);
-    print("isdesk>1010   ${MediaQuery.of(context).size.width}  $isdesktop}");
-    print("istab<1010   ${MediaQuery.of(context).size.width}  $istab}");
+  ;
 
     return Scaffold(
       drawer: !isdesktop
